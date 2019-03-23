@@ -1,10 +1,21 @@
-Para concursar en cualquiera de los cuatro concursos de tecnologías computacionales de UDEM Obispado (UnoTech), primero deberás tener conocimientos básicos sobre cualquiera de los siguientes: Dreamweaver, PowerPoint, Excel y Visual Studio. Además de conocer bien sobre diseño web, creación estructurada de sitios web, diseño de diapositivas, presentaciones avanzadas de tipo aplicación, organización de datos, hojas de cálculo avanzadas de tipo aplicación, fundamentos básicos de aplicaciones web y conocimientos sobre modificación de juegos en HTML.
+Para participar en cualquiera de los **concursos de tecnologías computacionales** de Prepa UDEM Unidad Obispado (UnoTech), primero deberás tener conocimientos básicos de: _Dreamweaver_, _PowerPoint_, _Excel_, _Animate_ o _Visual Studio_. Aun así, el taller de computación se va a encontrar disponible a partir del 9 de abril en la Biblioteca UNO, para los que quieran conocer más acerca de cómo usar las tecnologías mencionadas antes.
 
 ### UnoTech PR-19
-En primavera, las categorías Excel y Visual Studio son las únicas que se encuentran disponibles. Los temas elegidos para el Concurso de Excel son: _Creación de una hoja de cálculo atractiva y simple con capacidades de aplicación que organice automáticamente resultados de una investigación realizada en base a encuestas_ y _Creación de una hoja de cálculo con funciones de un minijuego sencillo para niños de primaria_. Los temas elegidos para Visual Studio son: _Creación de una aplicación simple y atractiva con funciones útiles, básicas y sencillas que funcione en Windows 10_ y _Creación de una modificación del juego HTML Downasaur que funcione en Windows 10_.
+En el periodo **Primavera 2019**, las categorías disponibles para participar en el concurso son: **Microsoft Excel** y **Adobe Animate**. Recuerda que debes ser original e innovador en el concurso para poder ganar más puntos.
 
-Los ganadores del primer lugar en el concurso de Excel obtienen: 1 mes gratuito de GOLD (3 tarjetas), 200 MXN gratis para compras en Microsoft Store (3 tarjetas), 200 MXN gratis para compras en iTunes (3 tarjetas), 2 pizzas gratis COSTCO (cada mes de OT-19) y vales de descuento (1 por cada semana de OT-19) para tenders, papas, comidas o chilaquiles en la Cafetería de la prepa.
+Los temas elegidos para **Microsoft Excel** son: 
+- _Creación de una hoja de cálculo atractiva y simple con capacidades de aplicación para una empresa que quiere ordenar todos sus datos de manera sencilla_.
+- _Creación de una hoja de cálculo atractiva y simple con funciones de minijuego sencillo_.
 
-Los ganadores del primer lugar en el concurso de Visual Studio obtienen: 1 cuenta gratuita de desarrollador en Microsoft Store (_donde pueden vender su aplicación_ o _pueden vender por 0 MXN su modificación de Downasaur_), 1 mes gratuito de GOLD (3 tarjetas), vales de descuento (1 por cada semana de OT-19) para tenders, papas, comidas o chilaquiles en la Cafetería de la prepa y cualquiera de los siguientes juegos gratis para Xbox/PC (sólo se puede escoger uno por integrante): Minecraft, FIFA 19, Extreme Landings Pro, Just Dance 2019 o Age of Empires: Definitive Edition.
+Los temas elegidos para **Adobe Animate** son:
+- _Creación de una animación corta y bien elaborada sobre algún cuento que quieran_.
+- _Creación de una animación atractiva y simple con funciones de minijuego sencillo_.
 
-El taller de tecnologías computacionales comenzará el 9 de abril en la Biblioteca UNO, donde se hablará sobre los temas de Excel y Visual Studio, además de cómo modificar o crear aplicaciones y juegos y usar Github para prácticas, avances y utilizar ejemplos de los tutoriales de este repo.
+Los premios son los siguientes:
+- **Primer lugar en Microsoft Excel**: 1 tarjeta de un mes de Xbox para cada integrante (Xbox Game Pass o Xbox LIVE Gold), un videojuego Xbox/PC para cada integrante (Minecraft, FIFA 19, Just Dance 2019, Age of Empires: Definitive Edition, Astroneer o Extreme Landings Pro), 50% de descuento en Certiport Microsoft Office Excel 2016 Certification (para cada integrante), 2 pizzas gratis de COSTCO (el último día de clases de Primavera 2019) y 1 vale de descuento semanal para tenders, comida, papas o chilaquiles en la cafetería de la prepa en Otoño 2019 (para cada integrante).
+
+- **Primer lugar en Adobe Animate**: 1 tarjeta de un mes de Xbox para cada integrante (Xbox Game Pass o Xbox LIVE Gold), 400 MXN en compras en iTunes, Spotify, Google Play o Microsoft Store (para cada integrante), 2 pizzas gratis de COSTCO (el último día de clases de Primavera 2019) y 1 vale de descuento semanal para tenders, comida, papas o chilaquiles en la cafetería de la prepa en Otoño 2019 (para cada integrante).
+
+- **Segundo lugar en Microsoft Excel o Adobe Animate**: 200 MXN para compras en iTunes, Spotify, Google Play o Microsoft Store (para cada integrante) y 1 vale de descuento mensual para tenders, comida, papas o chilaquiles en la cafetería de la prepa en Otoño 2019 (para cada integrante).
+
+- **Tercer lugar o participante en Microsoft Excel o Adobe Animate**: 1 tenders, comida papas o chilaquiles gratis en Otoño 2019 (para cada integrante).
