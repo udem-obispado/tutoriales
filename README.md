@@ -1,6 +1,6 @@
 Para participar en cualquiera de los **concursos de tecnologías computacionales** de Prepa UDEM Unidad Obispado (UnoTech), primero deberás tener conocimientos básicos de: _Dreamweaver_, _PowerPoint_, _Excel_, _Animate_ o _Visual Studio_. Aun así, el taller de computación se va a encontrar disponible a partir del 9 de abril en la Biblioteca UNO, para los que quieran conocer más acerca de cómo usar las tecnologías mencionadas antes.
 
-### UnoTech PR-19
+### Uno2ITC PR-19
 En el periodo **Primavera 2019**, las categorías disponibles para participar en el concurso son: **Microsoft Excel** y **Adobe Animate**. Recuerda que debes ser original e innovador en el concurso para poder ganar más puntos.
 
 Los temas elegidos para **Microsoft Excel** son: 
@@ -20,4 +20,4 @@ Los premios son los siguientes:
 
 - **Demás participantes en Microsoft Excel o Adobe Animate**: 100 MXN para compras en iTunes, Spotify, Google Play o Microsoft Store (para cada integrante) y 2 tenders, comida, papas o chilaquiles gratis en Otoño 2019 (para cada integrante).
 
-### UnoTech OT-19
+### Uno2ITC OT-19
