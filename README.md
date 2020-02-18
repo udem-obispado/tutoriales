@@ -14,5 +14,3 @@ Los temas elegidos para **Animación** son:
 
 Los premios son los siguientes:
 - **Primer lugar**: 1 tarjeta de regalo de $100 en cualquier tienda (iTunes, Spotify, Google Play o Microsoft Store) para cada integrante del equipo 1 pizza gratis (el último día de clases de Primavera 2020) y 1 vale de 30% de descuento cada mes para tenders y chilaquiles en la cafetería de la prepa en Primavera 2020 (para cada integrante).
-
-### Uno2ITC OT-19
