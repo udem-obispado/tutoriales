@@ -1,7 +1,7 @@
 Para participar en cualquiera de los **concursos de tecnologías computacionales** de Prepa UDEM Unidad Obispado (Uno2ITC) primero deberás tener conocimientos básicos de: _Raptor_, _Visual Basic (PowerPoint y Excel)_, _Python_ o _JavaScript_. El taller de computación se va a encontrar disponible cada martes y viernes a partir del 25 de febrero de 2020 en el salón 1102 para quienes quieran conocer más acerca las tecnologías ya mencionadas y aprender a utilizarlas.
 
 ### Uno2ITC PR-20
-En el periodo **Primavera 2020**, las categorías disponibles para participar en el concurso son: **Visual Basic vs Raptor** y **JavaScript vs Python**. Recuerda que debes ser original e innovador en el concurso para poder ganar más puntos.
+En el periodo **Primavera 2020**, las categorías disponibles para participar en el concurso son: **Visual Basic vs JavaScript** y **Python vs Raptor**. Recuerda que debes ser original e innovador en el concurso para poder ganar más puntos.
 
 Los temas elegidos para **Visual Basic** son: 
 - _Creación de una hoja de cálculo atractiva y simple con capacidades de aplicación para una empresa que quiere ordenar todos sus datos de manera sencilla_.
