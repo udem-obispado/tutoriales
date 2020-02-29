@@ -12,7 +12,7 @@ Input es el símbolo que se utiliza para generar una ventana para escribir una e
 ![Figure 1-2](images/1-2.png?raw=true)
 
 ## 3. Funciones
-C
+Raptor tiene funciones para realizar operaciones básicas muy útiles. Entre las funciones, las que serán usadas principalmente en los ejercicios son: _abs(x)_, _ceiling(x)_, 
 
 ## 4. IF (Selection)
 D
