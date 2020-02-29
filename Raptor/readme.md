@@ -7,7 +7,7 @@ Output es el símbolo que se utiliza para mostrar en la consola un mensaje espec
 ![Figure 1-1](images/1-1.png?raw=true)
 
 ## 2. GET (Input)
-B
+Input es el símbolo que se utiliza para generar una ventana para escribir una entrada. Esta entrada se declara como la variable bajo GET. Esta variable cambia con cada prueba de escritorio del programa, lo que la hace independiente del creador del programa y totalmente dependiente al dato ingresado por el usuario. El programa de ejemplo **get-celstofahr1.rap** tiene como objetivo
 
 ## 3. IF (Selection)
 C
@@ -24,8 +24,8 @@ F
 ## 7. CALL
 G
 
-### 8. Main
+## 8. Main
 H
 
-### 9. Object-Oriented
+## 9. Object-Oriented
 I
