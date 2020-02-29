@@ -26,11 +26,17 @@ F
 ## 7. WHILE (Loop)
 F
 
-## 8. CALL
+## 8. Calls I
 H
 
-## 9. Main
+## 9. Subcharts
 I
 
-## 10. Object-Oriented
+## 10. Procedimientos
 J
+
+## 11. Calls II
+K
+
+## 12. Orientado a objetos
+L
