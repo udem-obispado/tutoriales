@@ -11,23 +11,26 @@ Input es el símbolo que se utiliza para generar una ventana para escribir una e
 
 ![Figure 1-2](images/1-2.png?raw=true)
 
-## 3. Funciones
+## 3. Funciones I
 Raptor tiene funciones para realizar operaciones básicas muy útiles. Entre las funciones, las que serán usadas principalmente en los ejercicios son: _abs(x)_, _ceiling(x)_, 
 
 ## 4. IF (Selection)
 D
 
-## 5. FOR (Loop)
+## 5. Funciones II
 E
 
-## 6. WHILE (Loop)
+## 6. FOR (Loop)
 F
 
-## 7. CALL
-G
+## 7. WHILE (Loop)
+F
 
-## 8. Main
+## 8. CALL
 H
 
-## 9. Object-Oriented
+## 9. Main
 I
+
+## 10. Object-Oriented
+J
