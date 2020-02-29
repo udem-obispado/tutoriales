@@ -11,10 +11,10 @@ Input es el símbolo que se utiliza para generar una ventana para escribir una e
 
 ![Figure 1-2](images/1-2.png?raw=true)
 
-## 3. IF (Selection)
+## 3. Funciones
 C
 
-## 4. Funciones
+## 4. IF (Selection)
 D
 
 ## 5. FOR (Loop)
