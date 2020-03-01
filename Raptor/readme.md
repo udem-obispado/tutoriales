@@ -20,7 +20,13 @@ El programa de ejemplo **get-maxnum1.rap** tiene como objetivo encontrar el mayo
 ![Figure 3-1](images/3-1.png?raw=true)
 
 ## 4. IF (Selection)
-D
+Selection es el símbolo que se utiliza para condicionar un resultado de cualquier tipo. Esta condición tiene dos posibles respuestas: sí y no. En pseudocódigo esta estructura se representaría con "Si _tal_ entonces _cual_ Si_no _mal_". Ya que hay solamente dos posibles resultados, se pueden anidar condiciones para expresar más complejidad en los requisitos condicionales.
+
+### oproot
+
+El programa de ejemplo **if-oproot1.rap** tiene como objetivo convertir los grados Celsius ingresados por el usuario a grados Fahrenheit. Este programa contiene cuatro símbolos: el _call_ (Clear_Console), un _input_ (GET C) con el texto "Teclea ºC", un _assignment_ (F←9/5 * C + 32) que es la fórmula de Celsius a Fahrenheit y un _output_ (PUT "Tus grados en  Fahrenheit: "+F).
+
+![Figure 4-1](images/4-1.png?raw=true)
 
 ## 5. Funciones booleanas
 E
