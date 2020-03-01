@@ -32,6 +32,14 @@ El programa de ejemplo **if-oproot1.rap** tiene como objetivo calcular la raíz 
 
 ![Figure 4-2](images/4-2.png?raw=true)
 
+### b) trgletype
+
+### c) lettertom
+
+### d) operatns
+
+### e) passgen
+
 ## 5. Funciones booleanas
 E
 
