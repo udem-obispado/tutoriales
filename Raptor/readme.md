@@ -20,7 +20,7 @@ El programa de ejemplo **get-maxnum1.rap** tiene como objetivo encontrar el mayo
 ![Figure 3-1](images/3-1.png?raw=true)
 
 ## 4. IF (Selection)
-Selection es el símbolo que se utiliza para condicionar un resultado de cualquier tipo. Esta condición tiene dos posibles respuestas: sí y no. En pseudocódigo esta estructura se representaría con "Si _tal_ entonces _cual_ Si_no _mal_". Ya que hay solamente dos posibles resultados, se pueden anidar condiciones para expresar más complejidad en los requisitos condicionales.
+Selection es el símbolo que se utiliza para condicionar un resultado de cualquier tipo. Esta condición tiene dos posibles respuestas: sí y no. En pseudocódigo esta estructura se representaría con "Si _tal_ entonces _cual_ Si_no _mal_". Ya que hay solamente dos posibles resultados, se pueden anidar condiciones para expresar más complejidad en los requisitos que están especificados en la condición.
 
 ### oproot
 
