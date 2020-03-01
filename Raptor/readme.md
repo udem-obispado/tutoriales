@@ -15,7 +15,7 @@ El programa de ejemplo **[get-celstofahr1.rap](get-celstofahr1.rap)** tiene como
 ## 3. Funciones
 Raptor tiene funciones para realizar operaciones básicas muy útiles. Entre las funciones, las que serán usadas principalmente en los ejercicios son: _e_, _pi_, _random_, _abs(x)_, _ceiling(x)_, _floor(x)_, _sqrt(x)_, _log(x)_, _sin(x)_, _cos(x)_, _tan(x)_, _cot(x)_, _max(x,y)_ y _min(x,y)_.
 
-El programa de ejemplo **get-maxnum1.rap** tiene como objetivo encontrar el mayor entre dos números. Este programa contiene cinco símbolos: el _call_ (Clear_Console), dos _input_ (GET N1 y GET N2), un _assignment_ (R←max(N1,N2)) que usa la función _max(x,y)_ para encontrar el número mayor de los dos y un _output_ (PUT "De los números "+N1+" y "+N2+" el más grande es "+R+".").
+El programa de ejemplo **[get-maxnum1.rap](get-maxnum1.rap)** tiene como objetivo encontrar el mayor entre dos números. Este programa contiene cinco símbolos: el _call_ (Clear_Console), dos _input_ (GET N1 y GET N2), un _assignment_ (R←max(N1,N2)) que usa la función _max(x,y)_ para encontrar el número mayor de los dos y un _output_ (PUT "De los números "+N1+" y "+N2+" el más grande es "+R+".").
 
 ![Figura 3-1](images/3-1.png?raw=true)
 
@@ -24,17 +24,17 @@ Selection es el símbolo que se utiliza para condicionar un resultado de cualqui
 
 ### a) oproot
 
-El programa de ejemplo **if-oproot1.rap** tiene como objetivo calcular la raíz cuadrada de un número _si_ este es positivo, _si no_, debe decir que el número es imaginario, ya que la raíz cuadrada de cualquier número negativo es imaginaria. Este programa contiene siete símbolos: el _call_ (Clear_Console), un _input_ (GET REAL) con el texto "Dame un número real", un _selection_ (solicitando que "REAL"<0) que, _si_ se cumple, seguirá un _assignment_ (root←"imaginario") junto con un _output_ (PUT "La raíz cuadrada del número introducido es un número "+root); y que, _si no_ se cumple, seguirá un _assignment_ (root←sqrt(REAL)) junto con un _output_ (PUT "La raíz cuadrada del número introducido es "+root).
+El programa de ejemplo **[if-oproot1.rap](if-oproot1.rap)** tiene como objetivo calcular la raíz cuadrada de un número _si_ este es positivo, _si no_, debe decir que el número es imaginario, ya que la raíz cuadrada de cualquier número negativo es imaginaria. Este programa contiene siete símbolos: el _call_ (Clear_Console), un _input_ (GET REAL) con el texto "Dame un número real", un _selection_ (solicitando que "REAL"<0) que, _si_ se cumple, seguirá un _assignment_ (root←"imaginario") junto con un _output_ (PUT "La raíz cuadrada del número introducido es un número "+root); y que, _si no_ se cumple, seguirá un _assignment_ (root←sqrt(REAL)) junto con un _output_ (PUT "La raíz cuadrada del número introducido es "+root).
 
 ![Figura 4-1](images/4-1.png?raw=true)
 
-¿Y si quiero mostrar el resultado de la raíz cuadrada de un número negativo de la forma en que puede ser representado? Los números imaginarios también se pueden denotar escribiendo "i" después de la raíz cuadrada del número y sin el signo negativo. Por eso, el programa de ejemplo **if-oproot2.rap** (que tiene el mismo objetivo que el primer _oproot_) cambia el seguimiento de su condición, por lo que _si "REAL"<0_, entonces seguirá un _assignment_ (coin←sqrt(REAL*-1)) junto con otro _assignment_ (root←(coin)+"i") y un _output_ (PUT "La raíz cuadrada del número introducido es "+root).
+¿Y si quiero mostrar el resultado de la raíz cuadrada de un número negativo de la forma en que puede ser representado? Los números imaginarios también se pueden denotar escribiendo "i" después de la raíz cuadrada del número y sin el signo negativo. Por eso, el programa de ejemplo **[if-oproot2.rap](if-oproot2.rap)** (que tiene el mismo objetivo que el primer _oproot_) cambia el seguimiento de su condición, por lo que _si "REAL"<0_, entonces seguirá un _assignment_ (coin←sqrt(REAL*-1)) junto con otro _assignment_ (root←(coin)+"i") y un _output_ (PUT "La raíz cuadrada del número introducido es "+root).
 
 ![Figura 4-2](images/4-2.png?raw=true)
 
 ### b) trgletype
 
-El programa de ejemplo **if-trgletype1.rap** tiene como objetivo mostrar al usuario de qué tipo es un triángulo en base a la medida de sus lados. Hay tres tipos de triángulos si se clasifican por la medida de los lados (equilátero, isósceles y escaleno). Para poder indicar que un triángulo es de cualquiera de estos tres tipos es imposible usar una sola condición, por lo que deberá tener condiciones anidadas. El programa inicia preguntando al usuario por la medida de cada lado. La primera condición es una igualdad (L1=L2). _Si_ L1=L2 _entonces_ _si_ L2=L3 el triángulo es equilátero y _si no_ el triángulo es isósceles, _si no_ _si_ L2=L3 _entonces_ el triángulo es isósceles y _si no_ _si_ L1=L3 _entonces_ el triángulo es isósceles y _si no_ el triángulo es escaleno.
+El programa de ejemplo **[if-trgletype1.rap](if-trgletype1.rap)** tiene como objetivo mostrar al usuario de qué tipo es un triángulo en base a la medida de sus lados. Hay tres tipos de triángulos si se clasifican por la medida de los lados (equilátero, isósceles y escaleno). Para poder indicar que un triángulo es de cualquiera de estos tres tipos es imposible usar una sola condición, por lo que deberá tener condiciones anidadas. El programa inicia preguntando al usuario por la medida de cada lado. La primera condición es una igualdad (L1=L2). _Si_ L1=L2 _entonces_ _si_ L2=L3 el triángulo es equilátero y _si no_ el triángulo es isósceles, _si no_ _si_ L2=L3 _entonces_ el triángulo es isósceles y _si no_ _si_ L1=L3 _entonces_ el triángulo es isósceles y _si no_ el triángulo es escaleno.
 
 ![Figura 4-3](images/4-3.png?raw=true)
 
