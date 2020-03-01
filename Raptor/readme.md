@@ -12,7 +12,8 @@ Input es el símbolo que se utiliza para generar una ventana para escribir una e
 ![Figure 1-2](images/1-2.png?raw=true)
 
 ## 3. Funciones I
-Raptor tiene funciones para realizar operaciones básicas muy útiles. Entre las funciones, las que serán usadas principalmente en los ejercicios son: _abs(x)_, _ceiling(x)_, 
+Raptor tiene funciones para realizar operaciones básicas muy útiles. Entre las funciones, las que serán usadas principalmente en los ejercicios son: _e_, _pi_, _random_, _abs(x)_, _ceiling(x)_, _floor(x)_, _log(x)_, _max(x,y)_, _min(x,y)_ y _sqrt(x)_.
+
 
 ## 4. IF (Selection)
 D
