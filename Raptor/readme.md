@@ -39,5 +39,5 @@ J
 ## 11. Procedimientos
 K
 
-## 12. Orientado a objetos
+## 12. Object-Oriented
 L
