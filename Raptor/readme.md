@@ -18,19 +18,19 @@ Raptor tiene funciones para realizar operaciones básicas muy útiles. Entre las
 ## 4. IF (Selection)
 D
 
-## 5. Operadores
+## 5. Funciones booleanas
 E
 
-## 6. Funciones booleanas
+## 6. FOR (Loop)
 F
 
-## 7. FOR (Loop)
+## 7. WHILE (Loop)
 G
 
-## 8. WHILE (Loop)
+## 8. Llamadas
 H
 
-## 9. Llamadas
+## 9. Operadores
 I
 
 ## 10. Subcharts
