@@ -30,7 +30,7 @@ G
 ## 8. WHILE (Loop)
 H
 
-## 9. Calls
+## 9. Llamadas
 I
 
 ## 10. Subcharts
