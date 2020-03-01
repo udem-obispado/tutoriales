@@ -20,11 +20,11 @@ El programa de ejemplo **get-maxnum1.rap** tiene como objetivo encontrar el mayo
 ![Figure 3-1](images/3-1.png?raw=true)
 
 ## 4. IF (Selection)
-Selection es el símbolo que se utiliza para condicionar un resultado de cualquier tipo. Esta condición tiene dos posibles respuestas: sí y no. En pseudocódigo esta estructura se representaría con "Si _tal_ entonces _cual_ Si_no _mal_". Ya que hay solamente dos posibles resultados, se pueden anidar condiciones para expresar más complejidad en los requisitos que están especificados en la condición.
+Selection es el símbolo que se utiliza para condicionar un resultado de cualquier tipo. Esta condición tiene dos posibles respuestas: sí y no. En pseudocódigo esta estructura se representaría con "Si _tal_ entonces _cual_ Si_no _mal_". Ya que hay solamente dos posibles resultados, se pueden anidar condiciones para expresar más complejidad en los requisitos que se especifican en las condiciones.
 
 ### oproot
 
-El programa de ejemplo **if-oproot1.rap** tiene como objetivo convertir los grados Celsius ingresados por el usuario a grados Fahrenheit. Este programa contiene cuatro símbolos: el _call_ (Clear_Console), un _input_ (GET C) con el texto "Teclea ºC", un _assignment_ (F←9/5 * C + 32) que es la fórmula de Celsius a Fahrenheit y un _output_ (PUT "Tus grados en  Fahrenheit: "+F).
+El programa de ejemplo **if-oproot1.rap** tiene como objetivo calcular la raíz cuadrada de un número _si_ este es positivo. Y _si no_, debe decir que el número es imaginario, ya que el resultado de la raíz cuadrada de cualquier número negativo es imaginario. Este programa contiene siete símbolos: el _call_ (Clear_Console), un _input_ (GET REAL) con el texto "Dame un número real", un _selection_ (solicitando que "REAL"<0) que, _si_ se cumple, seguirá un _assignment_ (root←"imaginario") junto con un _output_ (PUT "La raíz cuadrada del número introducido es un número "+root); y que, _si no_ se cumple, seguirá un _assignment_ (root←sqrt(REAL)) junto con un _output_ (PUT "La raíz cuadrada del número introducido es "+root).
 
 ![Figure 4-1](images/4-1.png?raw=true)
 
