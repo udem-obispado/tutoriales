@@ -38,38 +38,39 @@ El programa de ejemplo **if-trgletype1.rap** tiene como objetivo mostrar al usua
 
 ![Figura 4-3](images/4-3.png?raw=true)
 
-### c) lettertom
+### c) operatns
 
-### d) operatns
+### d) passgen
 
-### e) passgen
-
-## 5. Funciones booleanas
+## 5. Operadores
 E
 
-## 6. FOR (Loop)
+## 6. Funciones booleanas
 F
 
-## 7. WHILE (Loop)
+## 7. FOR (Loop)
 G
 
-## 8. Operadores
+## 8. WHILE (Loop)
 H
 
-## 9. CALLS (Llamadas)
+## 9. Operadores booleanos
 I
 
-## 10. Subcharts
+## 10. CALLS (Llamadas)
 J
 
-## 11. Procedimientos
+## 11. Subcharts
 K
 
-## 12. RETURN
+## 12. Procedimientos
 L
 
-## 13. Unified Modeling Language
+## 13. RETURN
 M
 
-## 14. Combinación
+## 14. Unified Modeling Language
 N
+
+## 15. Combinación
+O
