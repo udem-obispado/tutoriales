@@ -28,6 +28,10 @@ El programa de ejemplo **if-oproot1.rap** tiene como objetivo calcular la raíz 
 
 ![Figure 4-1](images/4-1.png?raw=true)
 
+¿Y si quiero mostrar el resultado de la raíz cuadrada de un número negativo de la forma en que puede ser representado? Los números imaginarios también se pueden denotar escribiendo "i" después de la raíz cuadrada del número y sin el signo negativo. Por eso, el programa de ejemplo **if-oproot2.rap** tiene el mismo objetivo que el primer _oproot_, pero ahora, _si "REAL"<0_, entonces seguirá un _assignment_ (coin←sqrt(REAL*-1)) junto con otro _assignment_ (root←(coin)+"i") y un _output_ (PUT "La raíz cuadrada del número introducido es "+root).
+
+![Figure 4-2](images/4-2.png?raw=true)
+
 ## 5. Funciones booleanas
 E
 
