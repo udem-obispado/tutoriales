@@ -13,7 +13,7 @@ Input es el símbolo que se utiliza para generar una ventana para escribir una e
 ## 3. Funciones
 Raptor tiene funciones para realizar operaciones básicas muy útiles. Entre las funciones, las que serán usadas principalmente en los ejercicios son: _e_, _pi_, _random_, _abs(x)_, _ceiling(x)_, _floor(x)_, _sqrt(x)_, _log(x)_, _sin(x)_, _cos(x)_, _tan(x)_, _cot(x)_, _max(x,y)_ y _min(x,y)_.
 
-El programa de ejemplo **get-maxnum1.rap** tiene como objetivo encontrar el mayor entre dos números. Este programa contiene cinco símbolos: el _call_ (Clear_Console), dos _input_ (GET N1 y GET N2), un _assignment_ (R←max(N1,N2)) que usa la función _max(x,y)_ para encontrar el número mayor y un _output_ (PUT "De los números "+N1+" y "+N2+" el más grande es "+R+".").
+El programa de ejemplo **get-maxnum1.rap** tiene como objetivo encontrar el mayor entre dos números. Este programa contiene cinco símbolos: el _call_ (Clear_Console), dos _input_ (GET N1 y GET N2), un _assignment_ (R←max(N1,N2)) que usa la función _max(x,y)_ para encontrar el número mayor de los dos y un _output_ (PUT "De los números "+N1+" y "+N2+" el más grande es "+R+".").
 
 ![Figure 3-1](images/3-1.png?raw=true)
 
