@@ -8,7 +8,7 @@ Output es el símbolo que se utiliza para mostrar en la consola un mensaje espec
 ## 2. GET (Input)
 Input es el símbolo que se utiliza para generar una ventana para escribir una entrada. Esta entrada se declara como la variable bajo GET. Esta variable cambia con cada prueba de escritorio del programa, lo que la hace independiente del creador del programa y totalmente dependiente al dato ingresado por el usuario. 
 
-El programa de ejemplo **get-celstofahr1.rap** tiene como objetivo convertir los grados Celsius ingresados por el usuario a grados Fahrenheit. Este programa contiene cuatro símbolos: el _call_ (Clear_Console), un _input_ (GET C) con el texto "Teclea ºC", un _assignment_ (F←9/5 * C + 32) que es la fórmula de Celsius a Fahrenheit y un _output_ (PUT "Tus grados en  Fahrenheit: "+F).
+El programa de ejemplo **[get-celstofahr1.rap](get-celstofahr1.rap)** tiene como objetivo convertir los grados Celsius ingresados por el usuario a grados Fahrenheit. Este programa contiene cuatro símbolos: el _call_ (Clear_Console), un _input_ (GET C) con el texto "Teclea ºC", un _assignment_ (F←9/5 * C + 32) que es la fórmula de Celsius a Fahrenheit y un _output_ (PUT "Tus grados en  Fahrenheit: "+F).
 
 ![Figura 2-1](images/2-1.png?raw=true)
 
