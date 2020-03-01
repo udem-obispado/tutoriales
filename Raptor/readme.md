@@ -45,7 +45,7 @@ El programa de ejemplo **if-trgletype1.rap** tiene como objetivo mostrar al usua
 ## 5. Operadores
 E
 
-## 6. Funciones booleanas
+## 6. Operadores booleanos
 F
 
 ## 7. FOR (Loop)
@@ -54,7 +54,7 @@ G
 ## 8. WHILE (Loop)
 H
 
-## 9. Operadores booleanos
+## 9. Funciones booleanas
 I
 
 ## 10. CALLS (Llamadas)
