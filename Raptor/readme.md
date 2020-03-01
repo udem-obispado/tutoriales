@@ -24,7 +24,7 @@ Selection es el símbolo que se utiliza para condicionar un resultado de cualqui
 
 ### a) oproot
 
-El programa de ejemplo **if-oproot1.rap** tiene como objetivo calcular la raíz cuadrada de un número _si_ este es positivo. Y _si no_, debe decir que el número es imaginario, ya que el resultado de la raíz cuadrada de cualquier número negativo es imaginario. Este programa contiene siete símbolos: el _call_ (Clear_Console), un _input_ (GET REAL) con el texto "Dame un número real", un _selection_ (solicitando que "REAL"<0) que, _si_ se cumple, seguirá un _assignment_ (root←"imaginario") junto con un _output_ (PUT "La raíz cuadrada del número introducido es un número "+root); y que, _si no_ se cumple, seguirá un _assignment_ (root←sqrt(REAL)) junto con un _output_ (PUT "La raíz cuadrada del número introducido es "+root).
+El programa de ejemplo **if-oproot1.rap** tiene como objetivo calcular la raíz cuadrada de un número _si_ este es positivo, _si no_, debe decir que el número es imaginario, ya que la raíz cuadrada de cualquier número negativo es imaginaria. Este programa contiene siete símbolos: el _call_ (Clear_Console), un _input_ (GET REAL) con el texto "Dame un número real", un _selection_ (solicitando que "REAL"<0) que, _si_ se cumple, seguirá un _assignment_ (root←"imaginario") junto con un _output_ (PUT "La raíz cuadrada del número introducido es un número "+root); y que, _si no_ se cumple, seguirá un _assignment_ (root←sqrt(REAL)) junto con un _output_ (PUT "La raíz cuadrada del número introducido es "+root).
 
 ![Figure 4-1](images/4-1.png?raw=true)
 
