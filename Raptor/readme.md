@@ -31,10 +31,10 @@ F
 ## 7. WHILE (Loop)
 G
 
-## 8. Llamadas
+## 8. Operadores
 H
 
-## 9. Operadores
+## 9. CALLS (Llamadas)
 I
 
 ## 10. Subcharts
@@ -43,5 +43,11 @@ J
 ## 11. Procedimientos
 K
 
-## 12. Object-Oriented
+## 12. RETURN
 L
+
+## 13. UML (Object-Oriented)
+M
+
+## 14. Combinación
+N
