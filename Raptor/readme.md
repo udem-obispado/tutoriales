@@ -21,20 +21,23 @@ D
 ## 5. Operadores
 E
 
-## 6. FOR (Loop)
+## 6. Funciones booleanas
 F
 
-## 7. WHILE (Loop)
-F
+## 7. FOR (Loop)
+G
 
-## 8. Calls
+## 8. WHILE (Loop)
 H
 
-## 9. Subcharts
+## 9. Calls
 I
 
-## 10. Procedimientos
+## 10. Subcharts
 J
 
-## 11. Orientado a objetos
+## 11. Procedimientos
 K
+
+## 12. Orientado a objetos
+L
