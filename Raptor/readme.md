@@ -40,7 +40,9 @@ El programa de ejemplo **[if-trgletype1.rap](if-trgletype1.rap)** tiene como obj
 
 ### c) operatns
 
+El programa de ejemplo **[if-operatns1.rap](if-operatns1.rap)** tiene como objetivo
 
+![Figura 4-4](images/4-4.png?raw=true)
 
 ### d) passgen
 
