@@ -40,6 +40,8 @@ El programa de ejemplo **[if-trgletype1.rap](if-trgletype1.rap)** tiene como obj
 
 ### c) operatns
 
+
+
 ### d) passgen
 
 ## 5. Operadores
