@@ -23,4 +23,4 @@ Los premios son los siguientes:
 - **Primeros lugares**: 1 tarjeta de regalo de $100 en cualquier tienda (iTunes, Spotify, Google Play o Microsoft Store) o un descuento de $100 en la cafetería de la prepa para cada integrante del equipo y 1 pizza gratis para el equipo completo (el último día de clases de Primavera 2020).
 - **Segundos lugares**: Un descuento de $100 en la cafetería de la prepa para cada integrante del equipo.
 
-El último día para confirmar la participación es el **24 de marzo**. El último día para entregar el proyecto concursante es el **24 de abril**. El ganador de las dos categorías será conocido el **15 de mayo**.
+El último día para confirmar la participación es el **24 de marzo**. El último día para entregar el proyecto concursante es el **24 de abril**. El ganador de las dos categorías será conocido el **5 de mayo**.
