@@ -40,7 +40,7 @@ El programa de ejemplo **[if-trgletype1.rap](if-trgletype1.rap)** tiene como obj
 
 ### c) operatns
 
-El programa de ejemplo **[if-operatns1.rap](if-operatns1.rap)** tiene como objetivo
+El programa de ejemplo **[if-operatns1.rap](if-operatns1.rap)** tiene como objetivo calcular la suma, la resta, la multiplicación o la división de dos números que el usuario debe ingresar. El usuario también tiene que elegir cuál de las cuatro operaciones matemáticas realizar. El programa tiene una estructura de condiciones anidadas. Busca primero si el usuario eligió suma, luego resta, después multiplicación y, finalmente, división. Si el usuario no escribe una letra válida, entonces muestra que no se escribió una letra.
 
 ![Figura 4-4](images/4-4.png?raw=true)
 
