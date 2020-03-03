@@ -20,4 +20,7 @@ Los temas elegidos para **JavaScript** son:
 - _Creación de una modificación del juego Downasaur que cambie la dinámica del mismo_.
 
 Los premios son los siguientes:
-- **Primer lugar**: 1 tarjeta de regalo de $100 en cualquier tienda (iTunes, Spotify, Google Play o Microsoft Store) o un descuento de $100 en la cafetería de la prepa para cada integrante del equipo y 1 pizza gratis para el equipo completo (el último día de clases de Primavera 2020).
+- **Primeros lugares**: 1 tarjeta de regalo de $100 en cualquier tienda (iTunes, Spotify, Google Play o Microsoft Store) o un descuento de $100 en la cafetería de la prepa para cada integrante del equipo y 1 pizza gratis para el equipo completo (el último día de clases de Primavera 2020).
+- **Segundos lugares**: Un descuento de $100 en la cafetería de la prepa para cada integrante del equipo.
+
+El ganador de las dos categorías será conocido el **24 de abril**.
