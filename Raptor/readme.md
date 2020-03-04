@@ -46,7 +46,7 @@ El programa de ejemplo **[if-operatns1.rap](if-operatns1.rap)** tiene como objet
 
 ### d) passgen
 
-El programa de ejemplo **[if-passgen1.rap](if-passgen1.rap)** tiene como objetivo
+El programa de ejemplo **[if-passgen1.rap](if-passgen1.rap)** tiene como objetivo generar una contraseña en base a las respuestas de las preguntas que el programa le hace al usuario.
 
 ![Figura 4-5](images/4-5.png?raw=true)
 
