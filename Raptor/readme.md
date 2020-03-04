@@ -1,4 +1,7 @@
-Introducción a la creación de programas en Raptor.
+Raptor es un entorno de programación basado en diagramas de flujo, diseñado específicamente para ayudar a los estudiantes a visualizar sus algoritmos y evitar el equipaje sintáctico. Los programas RAPTOR se crean visualmente y se ejecutan visualmente al rastrear la ejecución a través del diagrama de flujo. Los estudiantes prefieren usar diagramas de flujo para expresar sus algoritmos, y tienen más éxito creando algoritmos usando RAPTOR que usando un lenguaje tradicional o escribiendo diagramas de flujo sin RAPTOR.
+
+La interfaz de Raptor es así:
+
 
 ## 1. PUT (Output)
 Output es el símbolo que se utiliza para mostrar en la consola un mensaje específico. El programa de ejemplo **[put-helloworld1.rap](put-helloworld1.rap)** tiene como objetivo mostrar el mensaje "Hello World!" en la consola. Este programa contiene tres símbolos: un _call_ (Clear_Console), un _assignment_ (HW←"Hello World!") y un _output_ (PUT HW).
