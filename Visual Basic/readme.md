@@ -1,1 +1,1 @@
-
+**Visual Basic** es un lenguaje de programación dirigido por eventos, desarrollado por Alan Cooper para Microsoft. Este lenguaje de programación es un dialecto de BASIC, con bastantes adiciones. **Vvisual Basic for Applications** (VBA) es un subconjunto casi completo de Visual Basic y el lenguaje de macros de Visual Basic que se utiliza para programar aplicaciones Windows y que se incluye en varias aplicaciones Microsoft. Por eso, VBA permite a usuarios y programadores ampliar la funcionalidad de programas de la suite Microsoft Office.
