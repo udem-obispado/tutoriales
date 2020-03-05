@@ -10,7 +10,7 @@ La consola de Raptor es la que muestra todos los mensajes que se envían mediant
 
 ![Figura 0-3](images/0-3.png?raw=true)
 
-Además, la aplicación contiene también un generador de código en los lenguajes de programación _Ada_, _C#_, _C++_, _Java_ y _Visual Basic_. Y el programa también puede ser compilado a un archivo ejecutable (.exe) cuando se selecciona la opción _Standalone_. Esta opción es muy útil cuando se necesita que el programa esté en tiempo real, para ver su funcionamiento natural.
+Además, la aplicación contiene también un generador de código en los lenguajes de programación _Ada_, _C#_, _C++_, _Java_ y _Visual Basic_. Y el programa también puede ser compilado a un archivo ejecutable (.exe) cuando se selecciona la opción _Standalone_. Esta opción es útil cuando se necesita que el programa esté en tiempo real para ver su funcionamiento natural.
 
 ## 1. PUT (Output)
 Output es el símbolo que se utiliza para mostrar en la consola un mensaje específico. El programa de ejemplo **[put-helloworld1.rap](put-helloworld1.rap)** tiene como objetivo mostrar el mensaje "Hello World!" en la consola. Este programa contiene tres símbolos: un _call_ (Clear_Console), un _assignment_ (HW←"Hello World!") y un _output_ (PUT HW).
