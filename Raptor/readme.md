@@ -74,23 +74,26 @@ G
 ## 8. WHILE (Loop)
 H
 
-## 9. Funciones booleanas
+## 9. UNTIL (Loop)
 I
 
-## 10. CALLS (Llamadas)
+## 10. Funciones booleanas
 J
 
-## 11. Subcharts
+## 11. CALLS (Llamadas)
 K
 
-## 12. Procedimientos
+## 12. Subcharts
 L
 
-## 13. RETURN
+## 13. Procedimientos
 M
 
-## 14. Unified Modeling Language
+## 14. RETURN
 N
 
-## 15. Combinación
+## 15. Unified Modeling Language
 O
+
+## 16. Combinaciones
+P
