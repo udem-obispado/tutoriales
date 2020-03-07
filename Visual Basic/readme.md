@@ -26,7 +26,7 @@ E
 ## 6. While (Loop)
 F
 
-## 7. UNTIL (Loop)
+## 7. Until (Loop)
 G
 
 ## 8. Class Module
