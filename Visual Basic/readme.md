@@ -2,34 +2,34 @@
 
 ![Figura 0-1](images/0-1.png?raw=true)
 
-VBA tiene tres objetos: _Module_, _Class Module_ y _UserForm_. Estos objetos son la base de los programas creados en este entorno. _Module_ y _Class Module_ son los objetos en los que el código se escribe, mientras que _UserForm_ es la ventana gráfica en los programas.
+VBA tiene tres objetos: _Module_, _Class Module_ y _UserForm_. Estos objetos son la base de los programas creados en este entorno. _Module_ y _Class Module_ son los objetos en los que el código se escribe como macro, mientras que _UserForm_ es la ventana gráfica en los programas.
 
 ## 1. Module
-
+A
 
 ## 2. INPUTBOX (Input)
-
+B
 
 ## 3. MSGBOX (Output)
-
+C
 
 ## 4. IF THEN ELSE
-
+D
 
 ## 5. FOR (Loop)
-
+E
 
 ## 6. WHILE (Loop)
-
+F
 
 ## 7. UNTIL (Loop)
-
+G
 
 ## 8. Class Module
-
+H
 
 ## 9. UserForm
-
+I
 
 ## 10. Integración
-
+J
