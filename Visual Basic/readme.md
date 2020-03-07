@@ -13,7 +13,7 @@ VBA tiene tres objetos: _Module_, _Class Module_ y _UserForm_. Estos objetos son
 ## 3. MsgBox
 
 
-## 4. If, then, else
+## 4. If/then/else
 
 
 ## 5. Else if
