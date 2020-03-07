@@ -1,4 +1,4 @@
-**Raptor** es un entorno de programación basado en diagramas de flujo, diseñado específicamente para ayudar a los estudiantes a visualizar sus algoritmos y evitar el equipaje sintáctico. Los programas en Raptor se crean visualmente y se ejecutan visualmente al rastrear la ejecución a través del diagrama de flujo. Los estudiantes prefieren usar diagramas de flujo para expresar sus algoritmos, y tienen más éxito creando algoritmos usando Raptor que usando un lenguaje tradicional o escribiendo diagramas de flujo sin Raptor.
+**Raptor** es un entorno de programación basado en diagramas de flujo, diseñado específicamente para ayudar a los estudiantes a visualizar sus algoritmos y evitar el equipaje sintáctico. Los programas en Raptor se crean visualmente y se ejecutan visualmente al rastrear la ejecución a través del diagrama de flujo. Es preferible usar diagramas de flujo para expresar los algoritmos, ya que se tiene más éxito creando algoritmos usando Raptor que usando un lenguaje tradicional o escribiendo diagramas de flujo sin Raptor.
 
 ![Figura 0-1](images/0-1.png?raw=true)
 
