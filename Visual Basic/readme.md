@@ -4,7 +4,7 @@
 
 VBA tiene tres objetos: _Module_, _Class Module_ y _UserForm_. Estos objetos son la base de los programas creados en este entorno. _Module_ y _Class Module_ son los objetos en los que el código se escribe como macro, mientras que _UserForm_ es la ventana gráfica en los programas. VBA no tiene consola, por lo que todo el código escrito debe reflejarse en el archivo.
 
-![Figura 0-2](images/0-2.png?raw=true)
+![Figura 0-3](images/0-3.png?raw=true)
 
 Además, los programas hechos con Visual Basic for Applications no se pueden ejecutar por separado. Todos los archivos de VBA deben estar dentro de un archivo para poder funcionar. Por eso mismo, en Excel y en PowerPoint existe la funcionalidad de guardar archivos habilitados para macros. En PowerPoint se puede crear un archivo de presentación con macros para hacer que funcione como aplicación.
 
