@@ -3,14 +3,14 @@ Private Sub sqroot()
 
   Randomize
 
-  Dim raptor_prompt_variable_zzyz As String
+  Dim prompt As String
   Dim root
   Dim coin
   Dim REAL
   '"Dim" declara las variables
   
-  raptor_prompt_variable_zzyz = "Dame un número real"
-  REAL = InputBox(raptor_prompt_variable_zzyz)
+  prompt = "Dame un número real"
+  REAL = InputBox(prompt)
   '"InputBox" generará un cuadro para escribir el número
   
   If REAL < 0 Then
