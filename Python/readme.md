@@ -17,6 +17,6 @@ El programa de ejemplo **[input-name1.py](input-name1.py)** tiene como objetivo 
 ![Figura 2-1](images/2-2.png?raw=true)
 
 ## 3. Funciones
-float(x), str(x), repr(x), ord(x), hex(x), oct(x), chr(x), unichr(x), dict(d), tuple(s), list(s), set(s), eval(str), int(x [,base]), long(x [,base] ), complex(real [,imag]). 
+Raptor tiene funciones para realizar operaciones básicas muy útiles. Entre las funciones, las que serán usadas principalmente en los ejercicios son: _float(x)_, _str(x)_, _repr(x)_, _ord(x)_, _hex(x)_, _oct(x)_, _chr(x)_, _unichr(x)_, _dict(d)_, _tuple(s)_, _list(s)_, _set(s)_, _eval(str)_, _int(x [,base])_, _long(x [,base] )_, _complex(real [,imag])_. 
 
 ![Figura 3-1](images/3-2.png?raw=true)
