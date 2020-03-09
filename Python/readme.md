@@ -18,4 +18,4 @@ El programa de ejemplo **[input-name1.py](input-name1.py)** tiene como objetivo 
 
 ## 3. Funciones
 
-![Figura 3-1](images/3-1.png?raw=true)
+![Figura 3-1](images/3-2.png?raw=true)
