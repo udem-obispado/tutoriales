@@ -36,5 +36,11 @@ El programa de ejemplo **[if-oproot1.py](if-oproot1.py)** tiene como objetivo ca
 
 ![Figura 4-2](images/4-2.png?raw=true)
 
+### b) trgletype
+
+El programa de ejemplo **[if-trgletype1.py](if-trgletype1.py)** tiene como objetivo mostrar al usuario de qué tipo es un triángulo en base a la medida de sus lados. Hay tres tipos de triángulos si se clasifican por la medida de los lados (equilátero, isósceles y escaleno). Para poder indicar que un triángulo es de cualquiera de estos tres tipos es imposible usar una sola condición, por lo que deberá tener condiciones anidadas. El programa inicia preguntando al usuario por la medida de cada lado. La primera condición es una igualdad (L1=L2). _Si_ L1=L2 _entonces_ _si_ L2=L3 el triángulo es equilátero y _si no_ el triángulo es isósceles, _si no_ _si_ L2=L3 _entonces_ el triángulo es isósceles y _si no_ _si_ L1=L3 _entonces_ el triángulo es isósceles y _si no_ el triángulo es escaleno.
+
+![Figura 4-3](images/4-3.png?raw=true)
+
 ## 5. Crear funciones
 B
