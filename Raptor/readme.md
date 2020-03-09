@@ -30,7 +30,7 @@ El programa de ejemplo **[get-maxnum1.rap](get-maxnum1.rap)** tiene como objetiv
 ![Figura 3-1](images/3-1.png?raw=true)
 
 ## 4. IF (Selection)
-Selection es el símbolo que se utiliza para condicionar un resultado de cualquier tipo. Esta condición tiene dos posibles respuestas: sí y no. En pseudocódigo esta estructura se representaría con "Si _tal_ entonces _cual_ Si_no _mal_". Ya que hay solamente dos posibles resultados, se pueden anidar condiciones para expresar más complejidad en los requisitos que se especifican en las condiciones.
+Selection es el símbolo que se utiliza para condicionar un resultado de cualquier tipo. Esta condición tiene dos posibles respuestas: sí y no. En pseudocódigo esta estructura se representaría con "Si _tal_ entonces _cual_ Si_no _mal_". Ya que hay solamente dos posibles resultados, se pueden anidar condiciones para expresar más complejidad en los requisitos que se especifican.
 
 ### a) oproot
 
@@ -56,7 +56,7 @@ El programa de ejemplo **[if-operatns1.rap](if-operatns1.rap)** tiene como objet
 
 ### d) passgen
 
-El programa de ejemplo **[if-passgen1.rap](if-passgen1.rap)** tiene como objetivo generar una contraseña en base a las respuestas de las preguntas que el programa le hace al usuario.
+El programa de ejemplo **[if-passgen1.rap](if-passgen1.rap)** tiene como objetivo generar una contraseña en base a las respuestas de las preguntas que el programa le hace al usuario. Con cada pregunta se genera una parte de la constraseña final, y con los números introducidos se realizan operaciones con números generados al azar para cambiar todos los datos numéricos.
 
 ![Figura 4-5](images/4-6.png?raw=true)
 
