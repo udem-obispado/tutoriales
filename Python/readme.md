@@ -22,3 +22,5 @@ Raptor tiene funciones para realizar operaciones básicas muy útiles. Entre las
 El programa de ejemplo **[input-celstofahr1.py](input-celstofahr1.py)** tiene como objetivo convertir los grados Celsius ingresados por el usuario a grados Fahrenheit. Utiliza la función _float(x)_ para que Python interprete la entrada como un número decimal y la función _round(x [,dec])_ para que el número tenga una cantidad de cifras decimales especificada.
 
 ![Figura 3-1](images/3-2.png?raw=true)
+
+## 4. If
