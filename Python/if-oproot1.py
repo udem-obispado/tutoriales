@@ -2,12 +2,14 @@ import math
 # Esto importará las funciones matemáticas
 
 REAL = float(input("Dame un número real: "))
-# float(x) dejará que el número tenga decimales
+# "float(x)" dejará que el número tenga decimales
+# "input(x)" generará un cuadro de entrada
 
 if REAL < 0:
     root = "imaginario"
     print(f"La raíz cuadrada del número introducido es un número {root}")
-    # root se debe especificar en 
+    # "print" imprimirá el texto
 else:
     root = math.sqrt(REAL)
     print(f"La raíz cuadrada del número introducido es {round(root, 2)}")
+    # "math.sqrt(x)" sacará la raíz cuadrada del número
