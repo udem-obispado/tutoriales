@@ -3,3 +3,12 @@
 ![Figura 0-1](images/0-1.png?raw=true)
 
 JS no debe ser confundido con Java, que es un lenguaje de programación diferente. JS sólo adopta nombres y convenciones del lenguaje de programación Java, pero tienen semánticas y propósitos diferentes. Además, es apliamente utilizado para la creación de páginas, sitios y aplicaciones web, los cuales usan también archivos HTML y CSS.
+
+## 1. Sitio web
+A
+
+## 2. Var Let Const
+B
+
+## 3. Log (Output)
+C
