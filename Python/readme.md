@@ -5,3 +5,5 @@
 En Jupyter, para ejecutar una celda de código, simplemente debe ser clicado el menú "Run" y luego el botón "Run Selected Cell". Su respectivo atajo en el teclado es "Shift"+"Enter". En el lado izquierdo de la ventana aparece todo el directorio de archivos del sistema.
 
 ## Print (Output)
+
+![Figura 1-1](images/1-1.png?raw=true)
