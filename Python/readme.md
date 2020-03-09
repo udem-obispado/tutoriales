@@ -5,6 +5,6 @@
 En Jupyter, para ejecutar una celda de código, simplemente debe ser clicado el menú "Run" y luego el botón "Run Selected Cell". Su respectivo atajo en el teclado es "Shift"+"Enter". En el lado izquierdo de la ventana aparece todo el directorio de archivos del sistema.
 
 ## Print (Output)
-Print es la función que se utiliza para mostrar en la consola un mensaje específico. El programa de ejemplo **[print-helloworld1.py](print-helloworld1.py)** tiene como objetivo mostrar el mensaje "Hello World!" en la consola. Primero se declaró la variable HW, que en el programa singificará "Hello World!" y luego se imprimirá el texto.
+Print es la función que se utiliza para mostrar en la consola un mensaje específico. El programa de ejemplo **[print-helloworld1.py](print-helloworld1.py)** tiene como objetivo mostrar el mensaje "Hello World!" en la consola. Primero se declaró la variable HW, que en el programa será "Hello World!", con lo que luego se imprimirá el valor de HW.
 
 ![Figura 1-2](images/1-2.png?raw=true)
