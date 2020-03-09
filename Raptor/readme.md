@@ -8,8 +8,6 @@ Raptor contiene siete símbolos: _Assignment_, _Call_, _Return_, _Input_, _Outpu
 
 La consola de Raptor es la que muestra todos los mensajes que se envían mediante el símbolo _Output_. La consola será la clave para revisar si un programa está bien hecho o no, mediante distintas pruebas de escritorio.
 
-![Figura 0-3](images/0-3.png?raw=true)
-
 Además, la aplicación contiene también un generador de código en los lenguajes de programación _Ada_, _C#_, _C++_, _Java_ y _Visual Basic_. Y el programa también puede ser compilado a un archivo ejecutable (.exe) cuando se selecciona la opción _Standalone_. Esta opción es útil cuando se necesita que el programa sea ejecutable e independiente de Raptor.
 
 ## 1. PUT (Output)
