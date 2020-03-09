@@ -17,5 +17,6 @@ El programa de ejemplo **[input-name1.py](input-name1.py)** tiene como objetivo 
 ![Figura 2-1](images/2-2.png?raw=true)
 
 ## 3. Funciones
+float(x), str(x), repr(x), ord(x), hex(x), oct(x), chr(x), unichr(x), dict(d), tuple(s), list(s), set(s), eval(str), int(x [,base]), long(x [,base] ), complex(real [,imag]). 
 
 ![Figura 3-1](images/3-2.png?raw=true)
