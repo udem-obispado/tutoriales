@@ -10,5 +10,8 @@ Print es la función que se utiliza para mostrar en la consola un mensaje espec�
 ![Figura 1-1](images/1-2.png?raw=true)
 
 ## Input
+Input es la función que se utiliza para generar un cuadro para introducir texto, que se volverá el valor de la variable. Esta variable cambia con cada prueba de escritorio del programa, lo que la hace independiente del creador del programa y totalmente dependiente al dato ingresado por el usuario.
+
+El programa de ejemplo **[input-name1.py](input-name1.py)** tiene como objetivo mostrar el nombre de una persona al ingresarlo el usuario. Entonces, _print("¿Cuál es tu nombre?")_ imprimirá la pregunta, _nombre = input()_ asignará la entrada como "nombre" y _print(f"Buenos días, {nombre}")_ mostrará el texto "Buenos días" junto con el valor de "nombre".
 
 ![Figura 2-1](images/2-2.png?raw=true)
