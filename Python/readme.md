@@ -32,5 +32,9 @@ El programa de ejemplo **[if-oproot1.py](if-oproot1.py)** tiene como objetivo ca
 
 ![Figura 4-1](images/4-1.png?raw=true)
 
+¿Y si quiero mostrar el resultado de la raíz cuadrada de un número negativo de la forma en que puede ser representado? Los números imaginarios también se pueden denotar escribiendo "i" después de la raíz cuadrada del número y sin el signo negativo. Por eso, el programa de ejemplo **[if-oproot2.rap](if-oproot2.rap)** (que tiene el mismo objetivo que el primer _oproot_) cambia el seguimiento de su condición para que el número imaginario pueda ser mostrado.
+
+![Figura 4-2](images/4-2.png?raw=true)
+
 ## 5. Crear funciones
 B
