@@ -17,14 +17,20 @@ El programa de ejemplo **[input-name1.py](input-name1.py)** tiene como objetivo 
 ![Figura 2-1](images/2-2.png?raw=true)
 
 ## 3. Funciones
-Raptor tiene funciones para realizar operaciones básicas muy útiles. Entre las funciones, las que serán usadas principalmente en los ejercicios son: _float(x)_, _ceil(x)_, _floor(x)_, _str(x)_, _ord(x)_, _hex(x)_, _oct(x)_, _sqrt(x)_, _chr(x)_, _unichr(x)_, _dict(d)_, _tuple(s)_, _list(s)_, _max(x,y)_, _min(x,y)_, _int(x [,base])_, _long(x [,base])_, _round(x [,dec])_ y _complex(real [,imag])_.
+Raptor tiene funciones para realizar operaciones básicas muy útiles. Entre las funciones, las que serán usadas principalmente en los ejercicios son: _e_, _pi_, _float(x)_, _ceil(x)_, _floor(x)_, _str(x)_, _ord(x)_, _hex(x)_, _oct(x)_, _sqrt(x)_, _chr(x)_, _unichr(x)_, _dict(d)_, _tuple(s)_, _list(s)_, _max(x,y)_, _min(x,y)_, _int(x [,base])_, _long(x [,base])_, _round(x [,dec])_ y _complex(real [,imag])_.
 
 El programa de ejemplo **[input-celstofahr1.py](input-celstofahr1.py)** tiene como objetivo convertir los grados Celsius ingresados por el usuario a grados Fahrenheit. Utiliza la función _float(x)_ para que Python interprete la entrada como un número decimal y la función _round(x [,dec])_ para que el número tenga una cantidad de cifras decimales especificada.
 
 ![Figura 3-1](images/3-2.png?raw=true)
 
 ## 4. If Else Elif
-A
+If es la función que se utiliza para condicionar un resultado de cualquier tipo. Esta condición tiene dos posibles respuestas: sí y no. En pseudocódigo esta estructura se representaría con "Si _tal_ entonces _cual_ Si_no _mal_". Ya que hay solamente dos posibles resultados, se pueden anidar condiciones para expresar más complejidad en los requisitos que se especifican.
+
+### a) oproot
+
+El programa de ejemplo **[if-oproot1.py](if-oproot1.py)** tiene como objetivo calcular la raíz cuadrada de un número _si_ este es positivo, _si no_, debe decir que el número es imaginario, ya que la raíz cuadrada de cualquier número negativo es imaginaria.
+
+![Figura 4-1](images/4-1.png?raw=true)
 
 ## 5. Crear funciones
 B
