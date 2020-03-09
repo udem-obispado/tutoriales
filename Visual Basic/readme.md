@@ -11,29 +11,32 @@ Además, los programas hechos con Visual Basic for Applications no se pueden eje
 ## 1. Module
 A
 
-## 2. MsgBox (Output)
+## 2. Dim (Variables)
 B
 
-## 3. InputBox (Input)
+## 3. MsgBox (Output)
 C
 
-## 4. If Then Else
+## 4. InputBox (Input)
 D
 
-## 5. For (Loop)
+## 5. If Then Else
 E
 
-## 6. While (Loop)
+## 6. For (Loop)
 F
 
-## 7. Until (Loop)
+## 7. While (Loop)
 G
 
-## 8. Class Module
+## 8. Until (Loop)
 H
 
-## 9. UserForm
+## 9. Class Module
 I
 
-## 10. Integración
+## 10. UserForm
 J
+
+## 11. Integración
+K
