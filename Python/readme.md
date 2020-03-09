@@ -23,7 +23,8 @@ El programa de ejemplo **[input-celstofahr1.py](input-celstofahr1.py)** tiene co
 
 ![Figura 3-1](images/3-2.png?raw=true)
 
-## 4. If else elif
+## 4. If Else Elif
 A
 
 ## 5. Crear funciones
+B
