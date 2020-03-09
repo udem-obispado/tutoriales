@@ -11,4 +11,4 @@ Print es la funci√≥n que se utiliza para mostrar en la consola un mensaje espec√
 
 ## Input
 
-![Figura 2-1](images/2-1.png?raw=true)
+![Figura 2-1](images/2-2.png?raw=true)
