@@ -4,12 +4,12 @@
 
 En Jupyter, para ejecutar una celda de código, simplemente debe ser clicado el menú "Run" y luego el botón "Run Selected Cell". Su respectivo atajo en el teclado es "Shift"+"Enter". En el lado izquierdo de la ventana aparece todo el directorio de archivos del sistema.
 
-## Print (Output)
+## 1. Print (Output)
 Print es la función que se utiliza para mostrar en la consola un mensaje específico. El programa de ejemplo **[print-helloworld1.py](print-helloworld1.py)** tiene como objetivo mostrar el mensaje "Hello World!" en la consola. Primero se declaró la variable HW, que en el programa será "Hello World!", con lo que luego se imprimirá el valor de HW.
 
 ![Figura 1-1](images/1-2.png?raw=true)
 
-## Input
+## 2. Input
 Input es la función que se utiliza para generar un cuadro para introducir texto, que se volverá el valor de la variable. Esta variable cambia con cada prueba de escritorio del programa, lo que la hace independiente del creador del programa y totalmente dependiente al dato ingresado por el usuario.
 
 El programa de ejemplo **[input-name1.py](input-name1.py)** tiene como objetivo mostrar el nombre de una persona al ingresarlo el usuario. Entonces, _print("¿Cuál es tu nombre?")_ imprimirá la pregunta, _nombre = input()_ asignará la entrada como "nombre" y _print(f"Buenos días, {nombre}")_ mostrará el texto "Buenos días" junto con el valor de "nombre".
