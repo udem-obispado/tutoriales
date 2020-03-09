@@ -15,3 +15,7 @@ Input es la función que se utiliza para generar un cuadro para introducir texto
 El programa de ejemplo **[input-name1.py](input-name1.py)** tiene como objetivo mostrar el nombre de una persona al ingresarlo el usuario. Entonces, _print("¿Cuál es tu nombre?")_ imprimirá la pregunta, _nombre = input()_ asignará la entrada como "nombre" y _print(f"Buenos días, {nombre}")_ mostrará el texto "Buenos días" junto con el valor de "nombre".
 
 ![Figura 2-1](images/2-2.png?raw=true)
+
+## 3. Funciones
+
+![Figura 3-1](images/3-1.png?raw=true)
