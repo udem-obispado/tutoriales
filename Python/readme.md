@@ -47,6 +47,6 @@ El programa de ejemplo **[if-trgletype1.py](if-trgletype1.py)** tiene como objet
 ### d) passgen
 
 ## 5. Creación de funciones
-Además de las funciones que vienen integradas en Python, existe la posibilidad de crear funciones propias. Esto es posible escribiendo "def", con el nombre de la función seguido de paréntesis ().
+Además de las funciones que vienen integradas en Python, existe la posibilidad de crear funciones propias. Esto es posible escribiendo "def", con el nombre de la función seguido de paréntesis.
 
 ## 6. Return
