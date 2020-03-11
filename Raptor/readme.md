@@ -85,7 +85,7 @@ K
 L
 
 ## 13. Creación de funciones
-M
+Además de las funciones que vienen integradas en Raptor, existe la posibilidad de crear funciones propias. Esto es posible creando un procedimiento, que hará que el programa tenga una pestaña dedicada a la función.
 
 ## 14. RETURN
 N
