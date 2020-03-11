@@ -23,7 +23,7 @@ El programa de ejemplo **[get-celstofahr1.rap](get-celstofahr1.rap)** tiene como
 ![Figura 2-1](images/2-1.png?raw=true)
 
 ## 3. Funciones
-Raptor tiene funciones para realizar operaciones básicas muy útiles. Entre las funciones, las que serán usadas principalmente en los ejercicios son: _e_, _pi_, _random_, _abs(x)_, _ceiling(x)_, _floor(x)_, _sqrt(x)_, _log(x)_, _sin(x)_, _cos(x)_, _tan(x)_, _cot(x)_, _max(x,y)_ y _min(x,y)_.
+Raptor tiene funciones para realizar operaciones básicas muy útiles. Las funciones también son conocidas como métodos o procedimientos. Entre las funciones, las que serán usadas principalmente en los ejercicios son: _e_, _pi_, _random_, _abs(x)_, _ceiling(x)_, _floor(x)_, _sqrt(x)_, _log(x)_, _sin(x)_, _cos(x)_, _tan(x)_, _cot(x)_, _max(x,y)_ y _min(x,y)_.
 
 El programa de ejemplo **[get-maxnum1.rap](get-maxnum1.rap)** tiene como objetivo encontrar el mayor entre dos números. Este programa contiene cinco símbolos: el _call_ (Clear_Console), dos _input_ (GET N1 y GET N2), un _assignment_ (R←max(N1,N2)) que usa la función _max(x,y)_ para encontrar el número mayor de los dos y un _output_ (PUT "De los números "+N1+" y "+N2+" el más grande es "+R+".").
 
@@ -84,7 +84,7 @@ K
 ## 12. Subcharts
 L
 
-## 13. Procedimientos
+## 13. Creación de funciones
 M
 
 ## 14. RETURN
