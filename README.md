@@ -13,7 +13,7 @@ Los temas elegidos para **Raptor** son:
 - _Creación de una sencilla aplicación con funciones de minijuego sencillo_.
 
 Los temas elegidos para **Python** son:
-- _Creación de un script multiusos con funciones prácticas_.
+- _Creación de una sencilla aplicación multiusos con funciones prácticas_.
 
 Los temas elegidos para **JavaScript** son:
 - _Creación de una sencilla aplicación multiusos con funciones prácticas_.
