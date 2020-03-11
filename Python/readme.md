@@ -17,7 +17,7 @@ El programa de ejemplo **[input-name1.py](input-name1.py)** tiene como objetivo 
 ![Figura 2-1](images/2-2.png?raw=true)
 
 ## 3. Funciones
-Python tiene funciones para realizar operaciones básicas muy útiles. Entre las funciones, las que serán usadas principalmente en los ejercicios son: _e_, _pi_, _float(x)_, _ceil(x)_, _floor(x)_, _str(x)_, _ord(x)_, _hex(x)_, _oct(x)_, _sqrt(x)_, _len(x)_, _chr(x)_, _unichr(x)_, _dict(d)_, _tuple(s)_, _list(s)_, _max(x,y)_, _min(x,y)_, _int(x [,base])_, _long(x [,base])_, _round(x [,dec])_ y _complex(real [,imag])_.
+Python tiene funciones para realizar operaciones básicas muy útiles. Las funciones también son conocidas como métodos o procedimientos. Entre las funciones, las que serán usadas principalmente en los ejercicios son: _e_, _pi_, _float(x)_, _ceil(x)_, _floor(x)_, _str(x)_, _ord(x)_, _hex(x)_, _oct(x)_, _sqrt(x)_, _len(x)_, _chr(x)_, _unichr(x)_, _dict(d)_, _tuple(s)_, _list(s)_, _max(x,y)_, _min(x,y)_, _int(x [,base])_, _long(x [,base])_, _round(x [,dec])_ y _complex(real [,imag])_.
 
 El programa de ejemplo **[input-celstofahr1.py](input-celstofahr1.py)** tiene como objetivo convertir los grados Celsius ingresados por el usuario a grados Fahrenheit. Utiliza la función _float(x)_ para que Python interprete la entrada como un número decimal y la función _round(x [,dec])_ para que el número tenga una cantidad de cifras decimales especificada.
 
@@ -47,4 +47,4 @@ El programa de ejemplo **[if-trgletype1.py](if-trgletype1.py)** tiene como objet
 ### d) passgen
 
 ## 5. Crear funciones
-B
+Además de las funciones que vienen integradas con Python, existe la posibilidad de crear funciones propias.
