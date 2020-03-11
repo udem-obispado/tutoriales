@@ -47,8 +47,24 @@ El programa de ejemplo **[if-trgletype1.py](if-trgletype1.py)** tiene como objet
 ### d) passgen
 
 ## 5. Operadores
+A
 
-## 5. Creación de funciones
+## 6. Operadores booleanos
+B
+
+## 7. For (Loop)
+C
+
+## 8. While (Loop)
+D
+
+## 9. Until (Loop)
+E
+
+## 10. Funciones booleanas
+F
+
+## 11. Creación de funciones
 Además de las funciones que vienen integradas en Python, existe la posibilidad de crear funciones propias. Esto es posible escribiendo "def", con el nombre de la función seguido de paréntesis.
 
-## 6. Return
+## 12. Return
