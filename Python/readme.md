@@ -49,4 +49,4 @@ El programa de ejemplo **[if-trgletype1.py](if-trgletype1.py)** tiene como objet
 ## 5. Return
 
 ## 6. Creación de funciones
-Además de las funciones que vienen integradas en Python, existe la posibilidad de crear funciones propias.
+Además de las funciones que vienen integradas en Python, existe la posibilidad de crear funciones propias. Esto es posible escribiendo "def", con el nombre de la función y paréntesis ().
