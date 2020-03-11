@@ -8,7 +8,7 @@ REAL = float(input("Dame un número real: "))
 if REAL < 0:
     coin = round(math.sqrt((REAL*(-1))), 2)
     root = str(coin)+"i"
-    print(f"La raíz cuadrada del número introducido es un número {root}")
+    print(f"La raíz cuadrada del número introducido es {root}")
     # Los números imaginarios también se pueden denotar escribiendo "i" después de la raíz cuadrada del número sin el signo negativo
     # "print" imprimirá el texto o resultado
 else:
