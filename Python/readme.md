@@ -17,7 +17,7 @@ El programa de ejemplo **[input-name1.py](input-name1.py)** tiene como objetivo 
 ![Figura 2-1](images/2-2.png?raw=true)
 
 ## 3. Funciones
-Raptor tiene funciones para realizar operaciones básicas muy útiles. Entre las funciones, las que serán usadas principalmente en los ejercicios son: _e_, _pi_, _float(x)_, _ceil(x)_, _floor(x)_, _str(x)_, _ord(x)_, _hex(x)_, _oct(x)_, _sqrt(x)_, _len(x)_, _chr(x)_, _unichr(x)_, _dict(d)_, _tuple(s)_, _list(s)_, _max(x,y)_, _min(x,y)_, _int(x [,base])_, _long(x [,base])_, _round(x [,dec])_ y _complex(real [,imag])_.
+Python tiene funciones para realizar operaciones básicas muy útiles. Entre las funciones, las que serán usadas principalmente en los ejercicios son: _e_, _pi_, _float(x)_, _ceil(x)_, _floor(x)_, _str(x)_, _ord(x)_, _hex(x)_, _oct(x)_, _sqrt(x)_, _len(x)_, _chr(x)_, _unichr(x)_, _dict(d)_, _tuple(s)_, _list(s)_, _max(x,y)_, _min(x,y)_, _int(x [,base])_, _long(x [,base])_, _round(x [,dec])_ y _complex(real [,imag])_.
 
 El programa de ejemplo **[input-celstofahr1.py](input-celstofahr1.py)** tiene como objetivo convertir los grados Celsius ingresados por el usuario a grados Fahrenheit. Utiliza la función _float(x)_ para que Python interprete la entrada como un número decimal y la función _round(x [,dec])_ para que el número tenga una cantidad de cifras decimales especificada.
 
@@ -41,6 +41,8 @@ El programa de ejemplo **[if-oproot1.py](if-oproot1.py)** tiene como objetivo ca
 El programa de ejemplo **[if-trgletype1.py](if-trgletype1.py)** tiene como objetivo mostrar al usuario de qué tipo es un triángulo en base a la medida de sus lados. Hay tres tipos de triángulos si se clasifican por la medida de los lados (equilátero, isósceles y escaleno). Para poder indicar que un triángulo es de cualquiera de estos tres tipos es imposible usar una sola condición, por lo que deberá tener condiciones anidadas. El programa inicia preguntando al usuario por la medida de cada lado. La primera condición es una igualdad (L1=L2). _Si_ L1=L2 _entonces_ _si_ L2=L3 el triángulo es equilátero y _si no_ el triángulo es isósceles, _si no_ _si_ L2=L3 _entonces_ el triángulo es isósceles y _si no_ _si_ L1=L3 _entonces_ el triángulo es isósceles y _si no_ el triángulo es escaleno.
 
 ![Figura 4-3](images/4-3.png?raw=true)
+
+### c) passgen
 
 ## 5. Crear funciones
 B
