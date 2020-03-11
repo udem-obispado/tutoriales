@@ -44,6 +44,10 @@ El programa de ejemplo **[if-trgletype1.py](if-trgletype1.py)** tiene como objet
 
 ### c) operatns
 
+El programa de ejemplo **[if-operatns1.py](if-operatns1.py)** tiene como objetivo calcular la suma, la resta, la multiplicación o la división de dos números que el usuario debe ingresar. El usuario también tiene que elegir cuál de las cuatro operaciones matemáticas realizar. El programa tiene una estructura de condiciones anidadas. Busca primero si el usuario eligió suma, luego resta, después multiplicación y, finalmente, división. Si el usuario no escribe una letra válida, entonces muestra que no se escribió cualquiera de las cuatro letras que pueden escribirse.
+
+![Figura 4-4](images/4-4.png?raw=true)
+
 ### d) passgen
 
 ## 5. Operadores
