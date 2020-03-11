@@ -42,7 +42,9 @@ El programa de ejemplo **[if-trgletype1.py](if-trgletype1.py)** tiene como objet
 
 ![Figura 4-3](images/4-3.png?raw=true)
 
-### c) passgen
+### c) operatns
+
+### d) passgen
 
 ## 5. Crear funciones
 B
